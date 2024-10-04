@@ -3,17 +3,15 @@ package org.example;
 import oshi.SystemInfo;
 import oshi.hardware.Sensors;
 
-public class TemperatureMonitor {
-    private SystemInfo systemInfo;
-    private Sensors sensors;
+public class CpuTemperatureMonitor {
+    private final Sensors sensors;
 
-    public TemperatureMonitor() {
-        this.systemInfo = new SystemInfo();
+    public CpuTemperatureMonitor() {
+        SystemInfo systemInfo = new SystemInfo();
         this.sensors = systemInfo.getHardware().getSensors();
     }
 
-    public void getCpuTemperature() {
-        double cpuTemperature = sensors.getCpuTemperature();
-        System.out.printf("CPU Temperature: %.1f°C\n", cpuTemperature);
+    public double getCpuTemperature() {
+        return sensors.getCpuTemperature();
     }
 }

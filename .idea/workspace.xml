@@ -5,34 +5,73 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e8249d0-1fcc-480b-956e-e0cd67faccca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlertManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/AlertManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CPUMonitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/CPUMonitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CpuTemperatureMonitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/CpuTemperatureMonitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FalconSystemMonitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/FalconSystemMonitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/NetworkMonitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/NetworkMonitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RAMMonitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/RAMMonitor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2mvpZ6hj21NGsZFnSOL8Q9oYYiL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.FalconSystemMonitor.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/yintsukiyomi/Masaüstü/falcon-1.1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="falcon-1 (kopya)" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="falcon-1 (kopya)" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -49,7 +88,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727966962231</updated>
-      <workItem from="1727966963260" duration="1000" />
+      <workItem from="1727966963260" duration="2448000" />
+      <workItem from="1727972770087" duration="1274000" />
+      <workItem from="1727975674943" duration="337000" />
+      <workItem from="1727981290554" duration="35000" />
+      <workItem from="1727981755943" duration="1486000" />
+      <workItem from="1727983329267" duration="52000" />
+      <workItem from="1727983407407" duration="4000" />
+      <workItem from="1727983548247" duration="1854000" />
+      <workItem from="1728001028722" duration="288000" />
+      <workItem from="1728001382953" duration="1197000" />
+      <workItem from="1728034962278" duration="808000" />
     </task>
     <servers />
   </component>
