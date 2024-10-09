@@ -9,8 +9,6 @@
 - **Loglama ve Raporlama**: Sistem kullanım verilerini kaydetme ve raporlama.
 - **Zamanlanmış Görevler**: Belirli işlemleri otomatik olarak belirlenen zamanda veya koşullarda başlatma.
 - **Grafiksel Gösterim**: Sistem kaynaklarının grafiksel gösterimi.
-- **Kullanıcı İzinleri ve Güvenlik**: Yetki bazlı sistem yönetimi.
-- **Uzak Sistem Yönetimi**: Başka cihazlardan sisteme bağlanıp kaynakları yönetme.
 - **Enerji Yönetimi**: Sistem kaynaklarını enerji tasarrufu sağlamak için optimize etme.
 - **Önceliklendirilmiş İşlem Yönetimi**: Uygulamaların kaynak kullanım önceliklerini ayarlama.
 - **Proses İzleme ve Yeniden Başlatma**: Çöken uygulamaları otomatik yeniden başlatma.
@@ -24,5 +22,4 @@
 - **Sistem Güncellemelerini İzleme**: Güncellemeleri kontrol etme ve otomatik yükleme.
 - **Çoklu Sistem İzleme**: Aynı ağdaki birden fazla cihazı izleme ve yönetme.
 - **Yapay Zeka Tabanlı Performans Analizi**: Sistem tıkanıklıklarını ve aşırı kaynak kullanımını önceden tahmin etme.
-- **Karmaşık Görev Zincirleri**: Otomatik işlem zincirleri oluşturma ve yönetme.
 
